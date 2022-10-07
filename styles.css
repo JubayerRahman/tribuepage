@@ -10,6 +10,8 @@ body{
 #timeline{
   margin-top:20px;
   margin-bottom:20px;
+  padding-top: 20px;
+  padding-bottom:20px;
 }
 #img-div{
   background-color: white;
