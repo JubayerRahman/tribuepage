@@ -7,6 +7,10 @@ body{
   text-align:center;
   line-height:1.6;
 }
+.timeline{
+  margin-top: 20px;
+  margin-bottom:20px;
+}
 #img-div{
   background-color: white;
   justify-content:center;
